@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Iterator\" />
+    <Folder Include="Adapter\" />
+    <Folder Include="TemplateMethod\" />
+    <Folder Include="Factory\" />
+    <Folder Include="Singleton\" />
+    <Folder Include="Prototype\" />
+    <Folder Include="Builder\" />
+    <Folder Include="AbstractFactory\" />
+    <Folder Include="Bridge\" />
+    <Folder Include="Strategy\" />
+    <Folder Include="Composite\" />
+    <Folder Include="Decorate\" />
+    <Folder Include="Visitor\" />
+    <Folder Include="Test\" />
+  </ItemGroup>
+</Project>
